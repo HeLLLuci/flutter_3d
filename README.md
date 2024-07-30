@@ -1,18 +1,18 @@
 # 3D Animation Viewer and Controller
 
-## 📷 Video do Projeto
+## 📷 Video of project
 
-https://github.com/tassiogustavo/flutter_3d/assets/70405308/cd563ac6-518c-4a21-b703-6a888f45e8e4
+https://github.com/hellluci/flutter_3d/assets/70405308/cd563ac6-518c-4a21-b703-6a888f45e8e4
 
-Bem-vindo ao repositório do 3D Animation Viewer and Controller! Este projeto é um aplicativo web desenvolvido para a exibição e controle de animações 3D. No caso o Huggy Wuggy.
+Welcome to the 3D Animation Viewer and Controller repository! This project is a web application developed for the display and control of 3D animations, specifically featuring Huggy Wuggy.
 
-## Funcionalidades Principais
-* Visualização Imersiva: Explore animações 3D de forma intuitiva e imersiva diretamente no seu navegador.
+## Main Features
+* Immersive Viewing: Explore 3D animations intuitively and immersively directly in your browser.
 
-* Controle Total: Gerencie o rotação, autoplay, a direção e outros parâmetros das animações para personalizar sua experiência.
+* Full Control: Manage rotation, autoplay, direction, and other animation parameters to customize your experience.
 
-* Compatibilidade Universal: Funciona em todos os navegadores modernos.
+* Universal Compatibility: Works in all modern browsers.
 
 
-Animação adiquirida em: https://sketchfab.com/
-Personagem das animações: Huggy Wuggy
+Animation acquired from: https://sketchfab.com/
+Character in animations: Huggy Wuggy
