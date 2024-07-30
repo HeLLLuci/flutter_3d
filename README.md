@@ -15,4 +15,5 @@ Welcome to the 3D Animation Viewer and Controller repository! This project is a 
 
 
 Animation acquired from: https://sketchfab.com/
+
 Character in animations: Huggy Wuggy
